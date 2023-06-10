@@ -13,13 +13,13 @@ export default function Content() {
                 src={productImg}
                 loading="lazy"
                 alt="product"
-                class="h-full w-full object-cover object-center"
+                class="h-full w-full object-cover object-center rounded-xl"
               />
               <img
                 src={application}
                 loading="lazy"
                 alt="product"
-                class="h-full w-full object-cover object-center"
+                class="h-full w-full object-cover object-center rounded-xl"
               />
             </div>
           </div>
