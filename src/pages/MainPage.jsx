@@ -1,6 +1,9 @@
+import Content from '../components/Content';
 import Hero from '../components/Hero';
 import LogoCloud from '../components/LogoCloud';
 import Values from '../components/Values';
+import Footer from '../components/Footer';
+import ContactUs from '../components/ContactUs';
 
 function MainPage() {
   return (
@@ -8,7 +11,9 @@ function MainPage() {
       <Hero />
       <Values />
       <LogoCloud />
-      <h1>main page</h1>
+      <Content />
+      <ContactUs />
+      <Footer />
     </div>
   );
 }
