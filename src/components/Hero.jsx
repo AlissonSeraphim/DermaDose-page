@@ -3,7 +3,7 @@ import logo from "../img/logo-removebg.png";
 
 function Hero() {
   return (
-    <div class="bg-white pb-6 sm:pb-8 lg:pb-12 bg-gradient-to-b from-sky-50 to-sky-400">
+    <div class="pb-6 sm:pb-8 lg:pb-12">
       <div class="mx-auto max-w-screen-2xl px-4 md:px-8">
         <header class="mb-8 flex items-center justify-between py-4 md:mb-12 md:py-8 xl:mb-16">
           <a
@@ -17,25 +17,25 @@ function Hero() {
 
           <nav class="hidden gap-12 lg:flex">
             <a href="#home" class="text-lg font-semibold text-gray-600 hover:text-indigo-500">
-              Home
+              Inicio
             </a>
             <a
               href="#problem"
               class="text-lg font-semibold text-gray-600 transition duration-100 hover:text-indigo-500 active:text-indigo-700"
             >
-              Problem
+              Problema
             </a>
             <a
               href="#solution"
               class="text-lg font-semibold text-gray-600 transition duration-100 hover:text-indigo-500 active:text-indigo-700"
             >
-              Solution
+              Solução
             </a>
             <a
               href="#aboutUs"
               class="text-lg font-semibold text-gray-600 transition duration-100 hover:text-indigo-500 active:text-indigo-700"
             >
-              About Us
+              Contate-nos
             </a>
           </nav>
         </header>
