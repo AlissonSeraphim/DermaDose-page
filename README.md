@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# [PT-BR] Dermadose - Single Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um repositório do GitHub que contém uma página única desenvolvida com o framework TailwindCSS, utilizada para a apresentação de uma empresa fictícia chamada Dermadose. Essa página foi criada como parte do projeto de mestrado do meu amigo Guilherme.
 
-## Available Scripts
+## Visão Geral
 
-In the project directory, you can run:
+A página Dermadose foi projetada para fornecer uma apresentação visualmente atraente e informativa sobre a empresa fictícia Dermadose. A página apresenta informações sobre os serviços, produtos e valores da empresa, bem como um formulário de contato para os visitantes se comunicarem com a empresa.
 
-### `npm start`
+A página pode ser acessada em [dermadose-page.vercel.app](https://dermadose-page.vercel.app).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tecnologias Utilizadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- HTML5: a estrutura básica da página foi desenvolvida utilizando HTML5.
+- CSS3 (TailwindCSS): o framework TailwindCSS foi utilizado para estilizar a página, proporcionando uma aparência moderna e responsiva.
+- JavaScript: algumas interações e animações na página foram implementadas utilizando JavaScript.
 
-### `npm test`
+## Como Contribuir
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Este projeto foi desenvolvido exclusivamente para o projeto de mestrado de Guilherme e, portanto, não aceitamos contribuições externas neste momento.
 
-### `npm run build`
+## Licença
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+A página Dermadose não possui uma licença específica definida. Todos os direitos estão reservados ao autor do projeto.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# [EN] Dermadose - Single Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This is a GitHub repository that contains a single page developed using the TailwindCSS framework, used to showcase a fictional company called Dermadose. This page was created as part of my friend Guilherme's master's project.
 
-### `npm run eject`
+## Overview
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The Dermadose page was designed to provide a visually appealing and informative presentation about the fictional company Dermadose. The page showcases information about the company's services, products, and values, as well as a contact form for visitors to get in touch with the company.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The page can be accessed at [dermadose-page.vercel.app](https://dermadose-page.vercel.app).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Technologies Used
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- HTML5: The basic structure of the page was developed using HTML5.
+- CSS3 (TailwindCSS): The TailwindCSS framework was used to style the page, giving it a modern and responsive look.
+- JavaScript: Some interactions and animations on the page were implemented using JavaScript.
 
-## Learn More
+## How to Contribute
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project was developed exclusively for Guilherme's master's project and, therefore, we do not accept external contributions at this time.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The Dermadose page does not have a specific license defined. All rights are reserved to the author of the project.
