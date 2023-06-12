@@ -12,7 +12,6 @@ A página pode ser acessada em [dermadose-page.vercel.app](https://dermadose-pag
 
 - HTML5: a estrutura básica da página foi desenvolvida utilizando HTML5.
 - CSS3 (TailwindCSS): o framework TailwindCSS foi utilizado para estilizar a página, proporcionando uma aparência moderna e responsiva.
-- JavaScript: algumas interações e animações na página foram implementadas utilizando JavaScript.
 
 ## Como Contribuir
 
@@ -36,7 +35,6 @@ The page can be accessed at [dermadose-page.vercel.app](https://dermadose-page.v
 
 - HTML5: The basic structure of the page was developed using HTML5.
 - CSS3 (TailwindCSS): The TailwindCSS framework was used to style the page, giving it a modern and responsive look.
-- JavaScript: Some interactions and animations on the page were implemented using JavaScript.
 
 ## How to Contribute
 
