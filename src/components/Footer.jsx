@@ -79,7 +79,7 @@ function Footer() {
         </div>
 
         <div class="py-8 text-center text-sm text-white-400">
-          © 2021 - Present Flowrift. All rights reserved.
+          © 2023 - DermoDose. All rights reserved.
         </div>
       </footer>
     </div>

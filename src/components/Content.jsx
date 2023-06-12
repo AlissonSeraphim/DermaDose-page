@@ -30,7 +30,7 @@ export default function Content() {
             </p>
 
             <h1 class="mb-4 text-center text-2xl font-bold text-gray-800 sm:text-3xl md:mb-6 md:text-left">
-              O Que São Microagulhas DermaDose?
+              O Que São Microagulhas DermoDose?
             </h1>
 
             <p class="mb-6 text-gray-500 sm:text-lg md:mb-8">
